@@ -110,5 +110,3 @@ Data modeling was done using Lucidchart. The schema was inspired by the [GitHub 
     ```
 
 ## Conclusion
-This ETL pipeline extracts Uber trip data, transforms it into structured dimensions, and loads it into a fact table for further analysis. Let me know if any improvements can be made! 🚀
-
