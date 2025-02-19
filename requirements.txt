@@ -1,0 +1,4 @@
+mage-ai
+pandas
+google-cloud
+google-cloud-bigquery
